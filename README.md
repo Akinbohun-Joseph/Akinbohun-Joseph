@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akinbohun-Joseph
-- 👀 I’m interested in Native Mobile App Development
-- 🌱 I’m currently learning Java and Kotlin
+- 👀 I’m interested in Backend Development 
+- 🌱 I’m currently learning NodeJs, ExpressJs and MongoDB
 - 💞️ I’m looking to collaborate on building projects and apps
 - 📫 How to reach me; opseyakinbohun@gmail.com
 
