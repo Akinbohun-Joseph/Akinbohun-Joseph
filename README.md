@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @Akinbohun-Joseph
-- 👀 I’m interested in Backend Development 
-- 🌱 I’m currently learning NodeJs, ExpressJs and MongoDB
-- 💞️ I’m looking to collaborate on building projects and apps
-- 📫 How to reach me; opseyakinbohun@gmail.com
+I’m a backend developer driven by a passion for building scalable applications and leveraging technology to solve real-world problems. With a strong focus on clean architecture and performance, I enjoy designing systems that are both efficient and maintainable.
 
-<!---
-Akinbohun-Joseph/Akinbohun-Joseph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in:
+
+Node.js & Express.js for building robust backend services
+
+TypeScript for writing clean, type-safe code
+
+MongoDB and PostgreSQL for flexible and relational data storage
+
+RESTful APIs and backend architecture design
+
+I’m highly focused, diligent, and continuously improving my skills to stay current with modern software engineering practices. My goal is to contribute to meaningful products that improve daily life through thoughtful, impactful software solutions.
